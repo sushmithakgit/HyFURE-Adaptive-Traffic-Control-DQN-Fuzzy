@@ -112,8 +112,10 @@ The RL-only agent cut overall congestion but stayed vehicle-blind, and buses act
 ## 📄 Publication
 
 **HyFURE: Hybrid Fuzzy Reinforcement for Adaptive Class-based Traffic Control**
-2025 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (iConSCEPT), IEEE
-🏆 Best Paper Award
+
+- **Conference:** 2025 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (iConSCEPT)
+- **Publisher:** IEEE
+- **Recognition:** 🏆 Best Paper Award
 
 ```bibtex
 @inproceedings{subramaniam2025hyfure,
